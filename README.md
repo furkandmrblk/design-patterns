@@ -1,7 +1,7 @@
 # Learning some design patterns
 Little repo with some design patterns I had learned, forgot most of them but still a cool learning
 
-# Usage: Add a design pattern in `src/design-patterns/` and run with
+Usage: Add a design pattern in `src/design-patterns/` and run with
 ```
 yarn start [design-pattern-name]
 ```
